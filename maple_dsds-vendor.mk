@@ -861,8 +861,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/maple_dsds/proprietary/vendor/etc/libnfc-nxp.conf:$(TARGET_COPY_OUT_VENDOR)/etc/libnfc-nxp.conf \
     vendor/sony/maple_dsds/proprietary/vendor/etc/listen_platform_info.xml:$(TARGET_COPY_OUT_VENDOR)/etc/listen_platform_info.xml \
     vendor/sony/maple_dsds/proprietary/vendor/etc/lowi.conf:$(TARGET_COPY_OUT_VENDOR)/etc/lowi.conf \
-    vendor/sony/maple_dsds/proprietary/vendor/etc/media_codecs_performance.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_codecs_performance.xml \
-    vendor/sony/maple_dsds/proprietary/vendor/etc/media_profiles_V1_0.xml:$(TARGET_COPY_OUT_VENDOR)/etc/media_profiles_V1_0.xml \
     vendor/sony/maple_dsds/proprietary/vendor/etc/mixer_paths.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths.xml \
     vendor/sony/maple_dsds/proprietary/vendor/etc/mixer_paths_tasha.xml:$(TARGET_COPY_OUT_VENDOR)/etc/mixer_paths_tasha.xml \
     vendor/sony/maple_dsds/proprietary/vendor/etc/permissions/android.hardware.light.xml:$(TARGET_COPY_OUT_VENDOR)/etc/permissions/android.hardware.light.xml \
@@ -872,7 +870,6 @@ PRODUCT_COPY_FILES += \
     vendor/sony/maple_dsds/proprietary/vendor/etc/qdcm_calib_data_6.xml:$(TARGET_COPY_OUT_VENDOR)/etc/qdcm_calib_data_6.xml \
     vendor/sony/maple_dsds/proprietary/vendor/etc/r_submix_audio_policy_configuration.xml:$(TARGET_COPY_OUT_VENDOR)/etc/r_submix_audio_policy_configuration.xml \
     vendor/sony/maple_dsds/proprietary/vendor/etc/sap.conf:$(TARGET_COPY_OUT_VENDOR)/etc/sap.conf \
-    vendor/sony/maple_dsds/proprietary/vendor/etc/sec_config:$(TARGET_COPY_OUT_VENDOR)/etc/sec_config \
     vendor/sony/maple_dsds/proprietary/vendor/etc/seccomp_policy/mediacodec.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediacodec.policy \
     vendor/sony/maple_dsds/proprietary/vendor/etc/seccomp_policy/mediaextractor.policy:$(TARGET_COPY_OUT_VENDOR)/etc/seccomp_policy/mediaextractor.policy \
     vendor/sony/maple_dsds/proprietary/vendor/etc/security/idd_config.pem:$(TARGET_COPY_OUT_VENDOR)/etc/security/idd_config.pem \
